@@ -9,7 +9,7 @@ Google AI Essentials
 Google Prompting Essentials
 Google AI Professional Certificate
 Google Introduction to Generative AI
-(Add exact completion dates and any others as you earn them — e.g. Google Cloud Generative AI Leader, Google Data Analytics)
+
 💡 About Me
 🧠 AI Engineer focused on building real, deployable AI/ML systems
 🛠️ I don't just learn tools — I build end-to-end pipelines and ship them
@@ -58,7 +58,7 @@ GitHub Actions Docker Compose Kubernetes Airflow Prefect
 
 🗄️ Databases
 
-PostgreSQL MongoDB Redis
+PostgreSQL MongoDB Redis MYSQL
 
 🧰 Dev Tools
 
@@ -71,8 +71,6 @@ Git & GitHub VS Code Jupyter Notebooks Postman Linux/Ubuntu
 🔍 Vector search & embeddings at scale
 🤖 Multi-agent AI systems
 🚀 Featured Project: Jarvis
-
-(One-line description — e.g. "A personal AI assistant that can understand voice/text commands and automate everyday tasks.")
 
 🔧 What I built:
 
