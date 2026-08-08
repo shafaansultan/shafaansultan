@@ -72,7 +72,7 @@ Git & GitHub VS Code Jupyter Notebooks Postman Linux/Ubuntu
 🤖 Multi-agent AI systems
 🚀 Featured Project: Jarvis
 
-🔧 What I built:
+## 🔧 What I built:
 
 (e.g., Speech-to-text + NLP pipeline for command understanding)
 (e.g., LLM integration for conversational responses — OpenAI/Claude API)
