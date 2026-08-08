@@ -1,16 +1,16 @@
 
-Hi, I'm Shafaan Sultan 👋
+# Hi, I'm Shafaan Sultan 👋
 🤖 AI Engineer • 💻 Software Engineer • 🔗 Automation Enthusiast
 
 I design, train, and deploy AI systems — from data pipelines to production-ready LLM apps — and document everything I learn along the way.
 
-🏅 Certifications
+##🏅 Certifications
 Google AI Essentials
 Google Prompting Essentials
 Google AI Professional Certificate
 Google Introduction to Generative AI
 
-💡 About Me
+##💡 About Me
 🧠 AI Engineer focused on building real, deployable AI/ML systems
 🛠️ I don't just learn tools — I build end-to-end pipelines and ship them
 🔁 Interested in LLMs, RAG systems, MLOps, and scalable AI infrastructure
@@ -20,47 +20,47 @@ Google Introduction to Generative AI
 
 Python SQL Bash JavaScript/TypeScript (for AI-powered web apps)
 
-📊 Data & Math Foundations
+##📊 Data & Math Foundations
 
 NumPy Pandas Matplotlib/Seaborn Linear Algebra Probability & Statistics Calculus
 
-🧠 Machine Learning
+##🧠 Machine Learning
 
 Scikit-learn XGBoost/LightGBM Feature Engineering Model Evaluation & Tuning
 
-🔥 Deep Learning
+##🔥 Deep Learning
 
 PyTorch TensorFlow/Keras CNNs RNNs/LSTMs Transformers
 
-🗣️ LLMs & Generative AI
+##🗣️ LLMs & Generative AI
 
 OpenAI API Anthropic Claude API Hugging Face Transformers Prompt Engineering Fine-tuning (LoRA/QLoRA) Reinforcement Learning from Human Feedback (RLHF) basics
 
-🔗 LLM App Frameworks
+##🔗 LLM App Frameworks
 
 LangChain LlamaIndex Semantic Kernel Agentic workflows Retrieval-Augmented Generation (RAG)
 
-🗂️ Vector Databases
+##🗂️ Vector Databases
 
 Pinecone Weaviate Chroma FAISS Qdrant
 
-🚀 Model Deployment & Serving
+##🚀 Model Deployment & Serving
 
 FastAPI Flask Streamlit Gradio Docker ONNX TorchServe
 
-☁️ Cloud & MLOps
+##☁️ Cloud & MLOps
 
 AWS (SageMaker, EC2, S3, Lambda) Google Cloud (Vertex AI) Azure ML MLflow Weights & Biases (W&B) Kubeflow DVC (Data Version Control)
 
-🔁 CI/CD & Automation
+##🔁 CI/CD & Automation
 
 GitHub Actions Docker Compose Kubernetes Airflow Prefect
 
-🗄️ Databases
+##🗄️ Databases
 
 PostgreSQL MongoDB Redis MYSQL
 
-🧰 Dev Tools
+##🧰 Dev Tools
 
 Git & GitHub VS Code Jupyter Notebooks Postman Linux/Ubuntu
 
